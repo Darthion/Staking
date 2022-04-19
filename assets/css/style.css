@@ -118,7 +118,7 @@ body{
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #0062cc;
+    color: #385e89;
     font-size: 27px;
 }
 
@@ -314,12 +314,13 @@ h6.card-title {
 
 #addDTHNetwork.btn-outline-primary {
     color: #000000;
-    border-color: #007bff;
+    border-color: #000000;
 }
 
 #addDTHNetwork.btn-outline-primary:hover {
     color: #fff;
-    border-color: #007bff;
+    border-color: #000000;
+    background-color: #000000;
 }
 
 
